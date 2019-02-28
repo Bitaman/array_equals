@@ -16,5 +16,5 @@ def array_equals(array1, array2)
     end
     (i == array1.length && i == array2.length) ? true : false
   end
-  #raise NotImplementedError.new("Wrong Implementation")
+
 end
